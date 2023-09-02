@@ -8,6 +8,7 @@ Assignment1
  - Write a program having an array of numbers if the number is negative it should remove the negative number from the array.
  - Create a function that takes an array of numbers as parameter. Use a while loop to calculate and return the sum of all the numbers in the array.
  - Implement a program that takes a list of temperatures in Celsius as input from the user. Convert each temperature to Fahrenheit using the formula F = (C * 9/5) + 32 and store the converted temperatures in an array. Use a while loop to perform the conversion for each temperature.
+   
  Assignment2
 - Develop a program that calculates and prints the sum of the first n even numbers using a for loop.
  - Implement a program that uses a for loop to iterate through an array of numbers and print only the even numbers.
